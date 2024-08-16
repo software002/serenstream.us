@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "95388415799",
+    "project_id": "serenestream-2ed81",
+    "storage_bucket": "serenestream-2ed81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95388415799:android:3ab352add7e482c06c8cb2",
+        "android_client_info": {
+          "package_name": "com.demo.serenestream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95388415799-78bqql7irl253o9rmm086kc1osq60l8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.serenestream",
+            "certificate_hash": "20eb491668a960ed8eccefe0a04a53c0cbef6cc9"
+          }
+        },
+        {
+          "client_id": "95388415799-s8seep10mphr0uqlfmhfn6vmm53qcqrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.demo.serenestream",
+            "certificate_hash": "81ebc1de658bc8a1c8187ec2d8163418307f6b18"
+          }
+        },
+        {
+          "client_id": "95388415799-77oss6ksdm7brru74ubc44um027v6f44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEK5pC8fyMIo87RT9Y-Z5EVUjlgbQ5ck8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95388415799-77oss6ksdm7brru74ubc44um027v6f44.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "95388415799-t86k0jq0v8v5g8tsoo1vmlj4lh6q06ln.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.serenestream.health",
+                "app_store_id": "6504112219"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
